@@ -1,0 +1,100 @@
+   90  cd homework
+   91  la
+   92  cd
+   93  vim func.h
+   94  ls
+   95  touch text1
+   96  mv text1 homework
+   97  cd homework
+   98  ls
+   99  cd
+  100  cd usr/include
+  101  cd
+  102  cd /usr
+  103  cd /include
+  104  cd include
+  105  ls
+  106  find -name func.h
+  107  cd
+  108  mv func.h /usr/include
+  109  mv func.h usr
+  110  cd
+  111  cd usr
+  112  cd/usr
+  113  cd /usr
+  114  mv func.h include
+  115  ls
+  116  find -name func.h
+  117  cd
+  118  find . -name func.h
+  119  ls
+  120  find /usr -name "func.h"
+  121  find . -name "func.h"
+  122  vim func.h
+  123  cat func.h
+  124  mv func.h /usr/include
+  125  find . -name "sni*.c"
+  126  cat ./.vim/plugged/prepare-code/snippet/snippet.c
+  127  vim ./.vim/plugged/prepare-code/snippet/snippet.c
+  128  cd /usr/include
+  129  ls
+  130  vim func.h
+  131  find . -name func.h
+  132  cd
+  133  vim func.h
+  134  mv func.h /usr/include
+  135  sudo mv func.h /usr/include
+  136  cd /usr/include
+  137  ls
+  138  cd
+  139  claer
+  140  clear
+  141  ls
+  142  cd homework
+  143  mkdir linux02
+  144  ls
+  145  cdlinux02
+  146  cd linux02
+  147  vim maxDepth.c
+  148  cat maxDepth.c
+  149  vim maxDepth.c
+  150  vim dcycle.c
+  151  cat dcycle.c
+  152  vim dcycle.c
+  153  cd
+  154  ls
+  155  mkdir homework/linux01
+  156  mv rotateArray.c homework/linux01
+  157  mv rotateLink.c homework/linux01
+  158  vim main.c
+  159  ./main1
+  160  ls
+  161  rm rotateArray 
+  162  rm main1
+  163  ls
+  164  vim homework/linux01/rotateArray.c 
+  165  rm main.c
+  166  cd homework
+  167  mv linux01 01
+  168  mvlinux02 02
+  169  mv linux02 02
+  170  ls
+  171  vim text1
+  172  rm text1
+  173  ls
+  174  cd 01
+  175  ls
+  176  vim rotateLink.c 
+  177  clear
+  178  cd
+  179  sudo shutdown now
+  180  man history
+  181  history
+  182  history | tail -100
+  183  ls
+  184  cd homework
+  185  ls
+  186  touch a.txt
+  187  history | tail -100 | echo >a.txt
+  188  cat a.txt
+  189  history | tail -100 >a.txt
